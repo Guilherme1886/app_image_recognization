@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "872878213269",
+    "firebase_url": "https://app-project-image.firebaseio.com",
+    "project_id": "app-project-image",
+    "storage_bucket": "app-project-image.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872878213269:android:bc5e5dc1b142c7e2",
+        "android_client_info": {
+          "package_name": "com.example.guilhermeantonio.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872878213269-lfvks8nvefr9crd0e8fqsg0c4rc1h0m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUSZal31ecmKlyKtGeS1PwHo6RF9sWsTs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
